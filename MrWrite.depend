@@ -1,0 +1,397 @@
+# depslib dependency file v1.0
+1480182588 source:d:\doc fac\l3\syst exploit\dm\mrwrite\structure.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480286470 .h"
+
+1480424893 source:d:\doc fac\l3\syst exploit\dm\mrwrite\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"conio21\conio.c"
+	"StructureLettre.c"
+	"StructureMot.c"
+	"StructureLigne.c"
+	"GestionTouches.c"
+	"ManipTranche.c"
+
+1480683050 che.c"
+
+1480182588 d:\doc fac\l3\syst exploit\dm\mrwrite\structure.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480282868 d:\doc fac\l3\syst exploit\dm\mrwrite\structure.h
+
+1480181677 source:d:\doc fac\l3\syst exploit\dm\mrwrite\structlettre.c
+	<stdio.h>
+	<stdlib.h>
+	"structLettre.h"
+
+1480181768 tre.h"
+
+1480181677 source:d:\doc fac\l3\syst exploit\dm\mrwrite\structligne.c
+	<stdio.h>
+	<stdlib.h>
+	"structLigne.h"
+
+1480181677 ne.h"
+
+1480181677 source:d:\doc fac\l3\syst exploit\dm\mrwrite\structmot.c
+	<stdio.h>
+	<stdlib.h>
+	"structMot.h"
+
+1480181677 d:\doc fac\l3\syst exploit\dm\mrwrite\structlettre.c
+	<stdio.h>
+	<stdlib.h>
+	"structLettre.h"
+
+1480209457 source:d:\doc fac\l3\syst exploit\dm\mrwrite\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	"Gestion.h"
+
+1480209457 "
+
+1480181707 d:\doc fac\l3\syst exploit\dm\mrwrite\structlettre.h
+
+1480181677 d:\doc fac\l3\syst exploit\dm\mrwrite\structmot.c
+	<stdio.h>
+	<stdlib.h>
+	"structMot.h"
+
+1480181768 d:\doc fac\l3\syst exploit\dm\mrwrite\structmot.h
+	"structLettre.h"
+
+1480181677 d:\doc fac\l3\syst exploit\dm\mrwrite\structligne.c
+	<stdio.h>
+	<stdlib.h>
+	"structLigne.h"
+
+1480181768 d:\doc fac\l3\syst exploit\dm\mrwrite\structligne.h
+	"structMot.h"
+
+1480209457 d:\doc fac\l3\syst exploit\dm\mrwrite\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	"Gestion.h"
+
+1480245530 d:\doc fac\l3\syst exploit\dm\mrwrite\gestion.h
+	"Structure.h"
+
+1480282868 source:d:\doc fac\l3\syst exploit\dm\mrwrite\structurelettre.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480254417 source:d:\doc fac\l3\syst exploit\dm\mrwrite\structureligne.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480282868 source:d:\doc fac\l3\syst exploit\dm\mrwrite\structuremot.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480282868 d:\doc fac\l3\syst exploit\dm\mrwrite\structurelettre.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480282868 d:\doc fac\l3\syst exploit\dm\mrwrite\structuremot.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480254417 d:\doc fac\l3\syst exploit\dm\mrwrite\structureligne.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480202267 source:d:\doc fac\l3\syst exploit\dm\mrwrite\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1480205868 
+
+1480202267 
+
+1386356978 d:\doc fac\l3\syst exploit\dm\mrwrite\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1386360578 >
+
+1480202267 source:d:\doc fac\l3\syst exploit\dm\mrwrite\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386356978 d:\doc fac\l3\syst exploit\dm\mrwrite\conio2.h
+	<conio.h>
+	<windows.h>
+
+1480202267 d:\doc fac\l3\syst exploit\dm\mrwrite\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1480424987 source:d:\doc fac\l3\syst exploit\dm\mrwrite\gestiontouches.c
+	<stdio.h>
+	<stdlib.h>
+	"GestionTouches.h"
+
+1480429344 uches.h"
+
+1480246451 d:\doc fac\l3\syst exploit\dm\mrwrite\gestiontouches.h
+	"Structure.h"
+	"ManipTranche.h"
+
+1481187588 che.h"
+
+1480425742 d:\doc fac\l3\syst exploit\dm\mrwrite\gestiontouches.c
+	<stdio.h>
+	<stdlib.h>
+	"GestionTouches.h"
+
+1480425742 d:\doc fac\l3\syst exploit\dm\mrwrite\maniptranche.c
+	<stdio.h>
+	<stdlib.h>
+	"ManipTranche.h"
+
+1480424933 d:\doc fac\l3\syst exploit\dm\mrwrite\maniptranche.h
+	"Structure.h"
+
+1480424943 source:d:\doc fac\l3\syst exploit\dm\mrwrite\maniptranche.c
+	<stdio.h>
+	<stdlib.h>
+	"ManipTranche.h"
+
+1480205868 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/conio21/conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386360578 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/conio21/conio2.h
+	<conio.h>
+	<windows.h>
+
+1480429344 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/GestionTouches.c
+	<stdio.h>
+	<stdlib.h>
+	"GestionTouches.h"
+	<stdio.h>
+	<stdlib.h>
+	"GestionTouches.h"
+
+1480250052 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/GestionTouches.h
+	"Structure.h"
+	"ManipTranche.h"
+	"Structure.h"
+	"ManipTranche.h"
+
+1480683594 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/Structure.h
+
+1480428534 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/ManipTranche.h
+	"Structure.h"
+	"Structure.h"
+
+1480683050 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"StructureLettre.c"
+	"StructureMot.c"
+	"StructureLigne.c"
+	"GestionTouches.c"
+	"ManipTranche.c"
+
+1480286470 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureLettre.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480286470 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureMot.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480258018 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureLigne.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480429344 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/GestionTouches.c
+	<stdio.h>
+	<stdlib.h>
+	"GestionTouches.h"
+
+1480429344 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/ManipTranche.c
+	<stdio.h>
+	<stdlib.h>
+	"ManipTranche.h"
+
+1480429344 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/ManipTranche.c
+	<stdio.h>
+	<stdlib.h>
+	"ManipTranche.h"
+	<stdio.h>
+	<stdlib.h>
+	"ManipTranche.h"
+
+1480286470 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureLettre.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480258018 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureLigne.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480286470 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureMot.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480425744 source:u:\fac\l3 info\s5\syst exploit\dm\mrwrite\gestiontouches.c
+	<stdio.h>
+	<stdlib.h>
+	"GestionTouches.h"
+
+1480246452 u:\fac\l3 info\s5\syst exploit\dm\mrwrite\gestiontouches.h
+	"Structure.h"
+	"ManipTranche.h"
+
+1480679994 u:\fac\l3 info\s5\syst exploit\dm\mrwrite\structure.h
+
+1480424934 u:\fac\l3 info\s5\syst exploit\dm\mrwrite\maniptranche.h
+	"Structure.h"
+
+1480425744 source:u:\fac\l3 info\s5\syst exploit\dm\mrwrite\maniptranche.c
+	<stdio.h>
+	<stdlib.h>
+	"ManipTranche.h"
+
+1480282870 source:u:\fac\l3 info\s5\syst exploit\dm\mrwrite\structurelettre.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480254418 source:u:\fac\l3 info\s5\syst exploit\dm\mrwrite\structureligne.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480282870 source:u:\fac\l3 info\s5\syst exploit\dm\mrwrite\structuremot.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480429344 source:/home/cedric/Bureau/MrWrite/GestionTouches.c
+	<stdio.h>
+	<stdlib.h>
+	"GestionTouches.h"
+
+1480250052 /home/cedric/Bureau/MrWrite/GestionTouches.h
+	"Structure.h"
+	"ManipTranche.h"
+
+1480683594 /home/cedric/Bureau/MrWrite/Structure.h
+
+1480428534 /home/cedric/Bureau/MrWrite/ManipTranche.h
+	"Structure.h"
+
+1480429344 source:/home/cedric/Bureau/MrWrite/ManipTranche.c
+	<stdio.h>
+	<stdlib.h>
+	"ManipTranche.h"
+
+1480286470 source:/home/cedric/Bureau/MrWrite/StructureLettre.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480258018 source:/home/cedric/Bureau/MrWrite/StructureLigne.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480286470 source:/home/cedric/Bureau/MrWrite/StructureMot.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480693597 source:/home/cedric/Bureau/MrWrite/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Structure.h"
+	"GestionTouches.h"
+	"ManipTranche.h"
+
+1481187588 source:u:\fac\l3 info\s5\syst exploit\dm\mrwrite\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Structure.h"
+	"GestionTouches.h"
+	"ManipTranche.h"
+
+1480429344 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/GestionTouches.c
+	<stdio.h>
+	<stdlib.h>
+	"GestionTouches.h"
+
+1480250052 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/GestionTouches.h
+	"Structure.h"
+	"ManipTranche.h"
+
+1480683594 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/Structure.h
+
+1480428534 /media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/ManipTranche.h
+	"Structure.h"
+
+1480429344 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/ManipTranche.c
+	<stdio.h>
+	<stdlib.h>
+	"ManipTranche.h"
+
+1480286470 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureLettre.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480258018 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureLigne.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1480286470 source:/media/cedric/ANGRY BIRDS/Fac/L3 Info/S5/Syst Exploit/DM/MrWrite/StructureMot.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
